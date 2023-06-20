@@ -44,6 +44,7 @@ html {
 	z-index: 1;
 	max-width: 720px;
 	margin: 0 auto;
+	padding-top: 60px;
 }
 
 .page__title::after {
